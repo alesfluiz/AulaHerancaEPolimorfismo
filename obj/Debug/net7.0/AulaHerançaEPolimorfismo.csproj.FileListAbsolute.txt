@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\bin\Debug\net7.0\AulaHerançaEPolimorfismo.exe
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\bin\Debug\net7.0\AulaHerançaEPolimorfismo.deps.json
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\bin\Debug\net7.0\AulaHerançaEPolimorfismo.runtimeconfig.json
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\bin\Debug\net7.0\AulaHerançaEPolimorfismo.dll
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\bin\Debug\net7.0\AulaHerançaEPolimorfismo.pdb
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.dll
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\refint\AulaHerançaEPolimorfismo.dll
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.pdb
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\AulaHerançaEPolimorfismo.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\source\repos\AulaHerançaEPolimorfismo\AulaHerançaEPolimorfismo\obj\Debug\net7.0\ref\AulaHerançaEPolimorfismo.dll
